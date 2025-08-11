@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [rushabrisal.com.np](rushabrisal.com.np)
+- 👨‍💻 All of my projects are available at [rushabrisal.com.np](https://rushabrisal.com.np)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/natural-language-processing-text-pre-processing-rushab-risal-nuvbf/?trackingId=0CU3FunYx2ysOL8A0EDzsw%3D%3D](https://www.linkedin.com/pulse/natural-language-processing-text-pre-processing-rushab-risal-nuvbf/?trackingId=0CU3FunYx2ysOL8A0EDzsw%3D%3D)
 
